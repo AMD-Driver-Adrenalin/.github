@@ -1,6 +1,6 @@
 # AMD Driver Adrenalin - Radeon Graphics Control, Driver Updates, and Performance Tuning
 
-![AMD Adrenalin dashboard with Radeon performance controls](https://www.amd.com/content/dam/amd/en/images/software/2374653-adrenalin-performance-screenshot.png)
+![AMD Adrenalin dashboard with Radeon performance controls](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Radeon_Software_BB7_Homepage_1.PNG)
 
 ## Why AMD Adrenalin Matters on Windows
 
